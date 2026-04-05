@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%!
     // Declaration: Variables outside service method
-    String companyName = "Your Company Name";
+    String companyName = "Your Company Names";
     int serviceCount = 3;
 %>
 <!DOCTYPE html>
